@@ -1,0 +1,103 @@
+{
+  "snapshot_date": "2026-09-14",
+  "source_revision": "76bd08f40c9aeffb89161f63ad06a57e340029d4",
+  "scope": "Business-rule extraction; not a complete app; original files copied without code changes.",
+  "files": [
+    {
+      "path": "src/domain/dreamRecord.test.ts",
+      "sha256": "f49728ffa6bcc424bdc637fc0129bd5c90773b3424eb8a68712d5054915f10c5"
+    },
+    {
+      "path": "src/domain/dreamRecord.ts",
+      "sha256": "2f2e104f286dca3e89896380cf74a077b76bdaa6ef870009b981482358b1496d"
+    },
+    {
+      "path": "src/domain/habitNames.test.ts",
+      "sha256": "4004e76e71f56edea09c087ce38c074c14ade98d44e4470ef8450ff1199acab5"
+    },
+    {
+      "path": "src/domain/habitNames.ts",
+      "sha256": "f11f98ea058c565ba8c346a0e377b294c8ba5ea48ee0682dc27e6e37fe292bb1"
+    },
+    {
+      "path": "src/domain/habitPresentation.test.ts",
+      "sha256": "0f350a26e1b3f890050a969723dcfb1093ee058e3fc652f5e6f8ab02ccf9c15e"
+    },
+    {
+      "path": "src/domain/habitPresentation.ts",
+      "sha256": "174e53bee37c350dd5503377f50e0ba1e9eaecd9fdb47009f512a9a4f4276076"
+    },
+    {
+      "path": "src/domain/models.ts",
+      "sha256": "3b0fa826e2d203d7963f1534386685373cf51c053f2718f902bad81a4b47de59"
+    },
+    {
+      "path": "src/domain/photos.test.ts",
+      "sha256": "a17ec5b30cf43a73f4da45e25bc30f8bfa6a0a3a30c6cd2d5b5350035f143d28"
+    },
+    {
+      "path": "src/domain/photos.ts",
+      "sha256": "5d718ee0f566a404a3a49b9cf1ec13e907b0c4233c10a613a7429c3b567615d2"
+    },
+    {
+      "path": "src/domain/profile.test.ts",
+      "sha256": "388fd32ecfd56c45dad9c5679202b268d18e0aea6f0d8e46918a64097388a68c"
+    },
+    {
+      "path": "src/domain/profile.ts",
+      "sha256": "e46ebcde642cdcc1b6989a18064eddf89857428ba880108fef07dcc9fe9fa4f3"
+    },
+    {
+      "path": "src/domain/progress.test.ts",
+      "sha256": "4e48cff85eb50dde572db188d92bf280c5850a59b91923a7d09bfd84a32f177e"
+    },
+    {
+      "path": "src/domain/progress.ts",
+      "sha256": "9c7b535b807492415e40631f03a1b24768547eca7285237d9dc90948fd6104cf"
+    },
+    {
+      "path": "src/domain/readingRecord.test.ts",
+      "sha256": "c095537bef2187b841170d11fddbd3661e5577ca589910ec3d7611b93385d8d5"
+    },
+    {
+      "path": "src/domain/readingRecord.ts",
+      "sha256": "97b484308317a2fff05da87a498796a264068ac4d6381af9052b74a600e4dad9"
+    },
+    {
+      "path": "src/domain/review.test.ts",
+      "sha256": "1c3ff962bb707e0004c298e275c709d88a61376a2ac396849c4b8d57d2e227cb"
+    },
+    {
+      "path": "src/domain/review.ts",
+      "sha256": "50af7d03a51c098b353ee9642db7c5c949b815ebe40945e47ab14ff93b29ea12"
+    },
+    {
+      "path": "src/domain/statistics.test.ts",
+      "sha256": "d4a866c96fb1dd0535cef00c7e799c39df9b3481dcf20ee720e1e38c6d8eb54d"
+    },
+    {
+      "path": "src/domain/statistics.ts",
+      "sha256": "6a5ebe7bf19b13b7301430e632da9ec1c36854926e3229a756e5d5324ad26b39"
+    },
+    {
+      "path": "src/domain/workoutRecord.test.ts",
+      "sha256": "3c8f2dd73e17fd4ccf7a23cece200e4df8276c61563825924bd03f5645fe44f5"
+    },
+    {
+      "path": "src/domain/workoutRecord.ts",
+      "sha256": "e24ce85c93e378f5bd644630ff3c42e8531733adc54a18cf453e88482dec22b7"
+    },
+    {
+      "path": "src/utils/date.test.ts",
+      "sha256": "b1428156a9153d887568399a0e9da24459a3af42335624eba6288b4265718024"
+    },
+    {
+      "path": "src/utils/date.ts",
+      "sha256": "8bcf1a2cee77f8ab78ded64a8b69064d8a0539575f8ee6a7fdb0c6063148de73"
+    },
+    {
+      "path": "src/test/factories.ts",
+      "sha256": "dbd7c065893745fd94a73cec092b800364f3e1b046bd6c5a0340ccca3bcd32c2"
+    }
+  ]
+}

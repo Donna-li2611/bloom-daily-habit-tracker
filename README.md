@@ -1,3 +1,53 @@
+# Bloom · Habit & Life Tracker
+
+**A product case in turning everyday habits into a coherent, lightweight recording experience.**
+
+Bloom connects daily recording, longer-term review and meaningful text or image records. Different habits need different inputs: a weekly exercise target should not behave like a daily sleep record.
+
+## The product decisions
+
+| Question | Choice |
+| --- | --- |
+| Should a three-times-a-week goal create a failure every other day? | Accumulate progress against the weekly target. |
+| Should reading always require an image or AI request? | Keep direct entry and manual saving useful on their own. |
+| What belongs in the content archive? | Text and image records; numerical entries remain in statistics and history. |
+| What happens when AI is unavailable? | Preserve the input and allow manual saving. |
+
+## My contribution
+
+I define the product problem and flows, decide interaction and scope trade-offs, translate them into requirements and acceptance criteria, and review the implemented behaviour through use and testing. Development and documentation are AI-assisted.
+
+## Evidence and scope
+
+- [Product case](docs/product-case.md): the PWA-to-native path and concrete decisions.
+- [Architecture](docs/architecture.md): the public package and application boundaries.
+- [Validation record](docs/validation.md): dated checks and outstanding release verification.
+- [Roadmap](docs/roadmap.md): remaining tests and evidence to collect.
+
+This repository contains **a product case and an executable business-rule core**, rather than the full iOS application. The public package's recorded validation on **2026-09-14** passed **39 tests in 11 files** and type checking. This is separate from the original application's own QA record.
+
+The last documented iPhone phase was release iteration. A new TestFlight build, installation results and market traction are not established by this repository. No new release result is implied by this README refresh.
+
+### Run the public core
+
+Node.js 22.13+:
+
+```bash
+npm install
+npm test
+npm run typecheck
+```
+
+These commands test business rules, not the full App or live AI services.
+
+[Earlier Web/PWA interaction prototype](https://github.com/Donna-li2611/bloom-pwa-test) · [Portfolio home](https://github.com/Donna-li2611)
+
+**README reviewed: 2026-10-06.** Detailed evidence retains its original dates.
+
+---
+
+## 中文说明
+
 # Bloom · Daily Habit Tracker
 
 **从可使用的 PWA 验证，到 iPhone 原生应用：一个本地优先的习惯与生活记录产品。**

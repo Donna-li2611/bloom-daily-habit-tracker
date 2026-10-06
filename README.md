@@ -1,5 +1,7 @@
 # Bloom · Habit & Life Tracker
 
+**A self-directed personal project, initiated and developed by Xiaozhen Li (Donna).** I carry out the project's design, research and development myself, using AI tools in the workflow.
+
 **A product case in turning everyday habits into a coherent, lightweight recording experience.**
 
 Bloom connects daily recording, longer-term review and meaningful text or image records. Different habits need different inputs: a weekly exercise target should not behave like a daily sleep record.
@@ -48,6 +50,8 @@ These commands test business rules, not the full App or live AI services.
 
 ## 中文说明
 
+**这是我个人独立开展的项目，构思、设计、研究、制作与已有成果均由我本人完成，过程中使用AI工具辅助。**
+
 # Bloom · Daily Habit Tracker
 
 **从可使用的 PWA 验证，到 iPhone 原生应用：一个本地优先的习惯与生活记录产品。**
@@ -93,6 +97,6 @@ CHANGELOG.md      本公开仓库的更新记录
 
 ## 贡献说明
 
-项目以 AI 辅助开发推进。需求定义、体验取舍、数据边界和验收过程见产品案例；源码公开用于展示实现，不能据此推断全部代码由本人独立手写。
+项目由我个人独立开展，使用AI工具辅助编码与迭代；需求定义、体验取舍、实现与验收过程见产品案例。
 
 隐私边界：日常记录默认保存在设备上；用户主动请求 AI 识别或生成时，所选内容会发往 AI 服务。这里没有真实个人健康记录。
